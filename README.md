@@ -1,9 +1,4 @@
-riak_core_lite_util
-=====
+# riak_core_lite_util
 
-An OTP library
+A library with utility functions for riak\_core\_lite extracted from riak\_core
 
-Build
------
-
-    $ rebar3 compile
