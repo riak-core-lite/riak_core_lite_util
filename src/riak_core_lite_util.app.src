@@ -1,6 +1,6 @@
 {application, riak_core_lite_util,
- [{description, "An OTP library"},
-  {vsn, "0.1.0"},
+ [{description, "Riak Core Lite Utilities"},
+  {vsn, "0.1.1"},
   {registered, []},
   {applications,
    [kernel,
@@ -10,5 +10,5 @@
   {modules, []},
 
   {licenses, ["Apache 2.0"]},
-  {links, []}
+  {links,[{"Github","https://github.com/riak-core-lite/riak_core_lite_util"}]}
  ]}.
