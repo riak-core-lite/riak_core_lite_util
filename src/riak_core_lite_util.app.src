@@ -1,6 +1,6 @@
 {application, riak_core_lite_util,
  [{description, "Riak Core Lite Utilities"},
-  {vsn, "0.1.1"},
+  {vsn, "0.1.2"},
   {registered, []},
   {applications,
    [kernel,
